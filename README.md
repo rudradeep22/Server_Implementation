@@ -1,5 +1,6 @@
 # Server_Implementation
 ### Implementation of server in C
+(Preferably run on Linux)
 Chat application in c using pre-built headers for socket connections
 To run, download the zip file.  
 Then compile the files using gcc
